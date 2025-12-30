@@ -10,9 +10,9 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <img 
-              src="https://customer-assets.emergentagent.com/job_cd5eff41-7829-4d4c-8734-8d4a891ff04c/artifacts/j42v9jy3_eventustaadlogo.svg" 
+              src="https://customer-assets.emergentagent.com/job_eventelegance-3/artifacts/ltcg4g2q_loggogo.svg" 
               alt="Event Ustaad" 
-              className="h-12 w-auto"
+              className="h-16 w-auto"
             />
             <p className="text-gray-600 text-sm leading-relaxed">
               Creating extraordinary experiences since 2018. Specializing in luxury weddings and corporate events across India.
