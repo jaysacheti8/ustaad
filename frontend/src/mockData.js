@@ -287,15 +287,59 @@ export const destinations = [
 ];
 
 export const clients = [
-  { name: "Danone", logo: "Danone" },
-  { name: "Novo Nordisk", logo: "Novo Nordisk" },
-  { name: "Alkem Laboratories", logo: "Alkem" },
-  { name: "Asian Paints", logo: "Asian Paints" },
-  { name: "Fintoo", logo: "Fintoo" },
-  { name: "Future Generali", logo: "Future Generali" },
-  { name: "Lodha Group", logo: "Lodha" },
-  { name: "Godrej Tyson Foods", logo: "Godrej Tyson" },
-  { name: "Cipla", logo: "Cipla" },
-  { name: "Schbang", logo: "Schbang" },
-  { name: "SISL", logo: "SISL" }
+  { 
+    name: "Danone", 
+    logo: "Danone",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Danone_logo.svg/320px-Danone_logo.svg.png"
+  },
+  { 
+    name: "Novo Nordisk", 
+    logo: "Novo Nordisk",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Novo_Nordisk_Logo.svg/320px-Novo_Nordisk_Logo.svg.png"
+  },
+  { 
+    name: "Alkem Laboratories", 
+    logo: "Alkem",
+    image: "https://www.alkemlabs.com/images/logo.png"
+  },
+  { 
+    name: "Asian Paints", 
+    logo: "Asian Paints",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Asian_Paints_Logo.svg/320px-Asian_Paints_Logo.svg.png"
+  },
+  { 
+    name: "Fintoo", 
+    logo: "Fintoo",
+    image: "https://fintoo.in/wp-content/uploads/2021/09/fintoo-logo.png"
+  },
+  { 
+    name: "Future Generali", 
+    logo: "Future Generali",
+    image: "https://www.futuregenerali.in/assets/images/logo.png"
+  },
+  { 
+    name: "Lodha Group", 
+    logo: "Lodha",
+    image: "https://www.lodhagroup.in/assets/images/lodha-logo.png"
+  },
+  { 
+    name: "Godrej Tyson Foods", 
+    logo: "Godrej Tyson",
+    image: "https://www.godrejtyson.com/images/logo.png"
+  },
+  { 
+    name: "Cipla", 
+    logo: "Cipla",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cipla_logo.svg/320px-Cipla_logo.svg.png"
+  },
+  { 
+    name: "Schbang", 
+    logo: "Schbang",
+    image: "https://schbang.com/wp-content/uploads/2021/01/schbang-logo.png"
+  },
+  { 
+    name: "SISL", 
+    logo: "SISL",
+    image: "https://www.sisl.in/images/logo.png"
+  }
 ];
