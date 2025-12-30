@@ -4,6 +4,7 @@ import { ArrowRight, Star, CheckCircle } from 'lucide-react';
 import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 import ClientLogos from '../components/ClientLogos';
+import InstagramSection from '../components/InstagramSection';
 import { weddingServices, testimonials } from '../mockData';
 
 const Home = () => {
