@@ -237,6 +237,9 @@ const Home = () => {
       {/* Client Logos */}
       <ClientLogos />
 
+      {/* Instagram Section */}
+      <InstagramSection />
+
       {/* Testimonials */}
       <section className="py-24 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
