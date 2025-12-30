@@ -50,12 +50,17 @@ const Packages = () => {
                 )}
                 
                 <CardHeader className="text-center pt-12 pb-6">
+                  <div className="mb-6">
+                    <div className="w-24 h-24 mx-auto mb-4 bg-gradient-to-br from-purple-100 to-pink-100 rounded-full flex items-center justify-center">
+                      <span className="text-4xl">🌸</span>
+                    </div>
+                  </div>
                   <h3 className="text-3xl font-light text-gray-900 mb-2">
                     {pkg.name}
                   </h3>
-                  <div className="text-3xl font-light text-purple-600">
-                    {pkg.price}
-                  </div>
+                  <p className="text-lg text-purple-600 font-medium">
+                    {pkg.subtitle}
+                  </p>
                 </CardHeader>
 
                 <CardContent className="px-8 pb-8">
