@@ -129,54 +129,47 @@ export const testimonials = [
 export const packages = [
   {
     id: 1,
-    name: "Essential Wedding Package",
-    price: "Starting from ₹5 Lakhs",
+    name: "Package 1",
+    subtitle: "Customize & Add to Cart",
     features: [
-      "RSVP Management",
-      "Venue Coordination",
-      "Basic Vendor Management",
-      "Event Timeline Planning",
-      "On-day Coordination (Single Event)",
-      "Post-wedding Support"
+      "Destination Venue Search",
+      "Décor Designing",
+      "Invitation & Stationary Designing",
+      "RSVP",
+      "Hospitality & Logistics",
+      "Bride & Groom Shopping Assistance",
+      "Gifting Solutions"
     ],
     popular: false
   },
   {
     id: 2,
-    name: "Premium Wedding Package",
-    price: "Starting from ₹12 Lakhs",
+    name: "Package 2",
+    subtitle: "End to End Solutions",
     features: [
-      "Complete RSVP Management",
-      "Venue Search & Coordination",
-      "Full Vendor Management",
-      "Décor Planning & Execution",
-      "Hospitality & Guest Management",
-      "Entertainment Coordination",
-      "On-day Coordination (All Events)",
-      "Photography & Videography Coordination",
-      "Post-wedding Support"
+      "Pre Wedding Checklists",
+      "RSVP, Hospitality & Logistics",
+      "On Day Personal Assistance",
+      "Show Flow & Special Entries",
+      "Décor Management",
+      "Complete Vendor Management",
+      "Budget friendly Solutions",
+      "On day Management"
     ],
     popular: true
   },
   {
     id: 3,
-    name: "Luxury Wedding Package",
-    price: "Starting from ₹25 Lakhs",
+    name: "Package 3",
+    subtitle: "On Day Assistance",
     features: [
-      "Premium RSVP Management",
-      "Destination & Venue Search",
-      "End-to-End Vendor Management",
-      "Luxury Décor Design & Execution",
-      "Complete Hospitality Services",
-      "Artist & Entertainment Management",
-      "Customized Invitations & Gifting",
-      "Food & Beverage Curation",
-      "Complete Show Flow Management",
-      "Ritual & Cultural Coordination",
-      "24/7 On-day Coordination (All Events)",
-      "Premium Photography & Videography",
-      "Dedicated Wedding Planner",
-      "Post-wedding Concierge Support"
+      "Venue Coordination",
+      "Vendor Coordination",
+      "Show Flow",
+      "Check-in & Check-out",
+      "F&B Management",
+      "Décor Management",
+      "Ritual Assistance"
     ],
     popular: false
   }
